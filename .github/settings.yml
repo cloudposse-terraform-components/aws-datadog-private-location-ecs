@@ -2,6 +2,6 @@
 _extends: .github
 repository:
   name: aws-datadog-private-location-ecs
-  description: 'This component is responsible for creating a datadog private location and deploying it to ECS (EC2 / Fargate)  ## Usage  **Note** The app key required for this component requires admin level permissions if you are using the default roles'
+  description: 'This component is responsible for creating a datadog private location and deploying it to ECS (EC2 / Fargate)'
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
