@@ -6,7 +6,7 @@ tags:
   - provider/datadog
 ---
 
-# Component: `datadog`
+# Component: `datadog-private-location-ecs`
 
 This component is responsible for creating a datadog private location and deploying it to ECS (EC2 / Fargate)
 
