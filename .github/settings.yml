@@ -5,3 +5,4 @@ repository:
   description: "This component is responsible for creating a datadog private location and deploying it to ECS (EC2 / Fargate)"
   homepage: https://cloudposse.com/accelerate
   topics: terraform, terraform-component
+
