@@ -26,7 +26,7 @@ resource "datadog_synthetics_private_location" "private_location" {
 
 module "container_definition" {
   source  = "cloudposse/ecs-container-definition/aws"
-  version = "0.58.1"
+  version = "0.61.2"
 
   depends_on = [datadog_synthetics_private_location.private_location]
 
