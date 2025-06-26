@@ -108,8 +108,8 @@ components:
 | <a name="module_datadog_configuration"></a> [datadog\_configuration](#module\_datadog\_configuration) | github.com/cloudposse-terraform-components/aws-datadog-credentials//src/modules/datadog_keys | v1.535.4 |
 | <a name="module_ecs_alb_service_task"></a> [ecs\_alb\_service\_task](#module\_ecs\_alb\_service\_task) | cloudposse/ecs-alb-service-task/aws | 0.78.0 |
 | <a name="module_ecs_cluster"></a> [ecs\_cluster](#module\_ecs\_cluster) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
-| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.3 |
-| <a name="module_roles_to_principals"></a> [roles\_to\_principals](#module\_roles\_to\_principals) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/roles-to-principals | v1.535.3 |
+| <a name="module_iam_roles"></a> [iam\_roles](#module\_iam\_roles) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/iam-roles | v1.535.4 |
+| <a name="module_roles_to_principals"></a> [roles\_to\_principals](#module\_roles\_to\_principals) | github.com/cloudposse-terraform-components/aws-account-map//src/modules/roles-to-principals | v1.535.4 |
 | <a name="module_this"></a> [this](#module\_this) | cloudposse/label/null | 0.25.0 |
 | <a name="module_vpc"></a> [vpc](#module\_vpc) | cloudposse/stack-config/yaml//modules/remote-state | 1.8.0 |
 
