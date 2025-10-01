@@ -13,9 +13,9 @@ This component creates a Datadog Private Location and deploys it to ECS (EC2 or 
 ## Sponsorship
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cloudposse.com/images/partners/datadog-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cloudposse.com/images/partners/datadog-purple.svg">
-  <img alt="Datadog" src="https://cloudposse.com/images/partners/datadog-purple.svg" align="right" width="40%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cloudposse.com/images/partners/datadog-white.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cloudposse.com/images/partners/datadog-purple.svg"/>
+  <img alt="Datadog" src="https://cloudposse.com/images/partners/datadog-purple.svg" align="right" width="40%"/>
 </picture>
 
 
