@@ -22,7 +22,7 @@ module "ecs_cluster" {
   source  = "cloudposse/stack-config/yaml//modules/remote-state"
   version = "1.8.0"
 
-  component = "ecs/cluster"
+  component = "ecs"
 
   context = module.this.context
 }
