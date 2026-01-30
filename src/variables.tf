@@ -26,3 +26,9 @@ variable "alb_configuration" {
   description = "The configuration to use for the ALB, specifying which cluster alb configuration to use"
   default     = "default"
 }
+
+variable "ecs_cluster_component" {
+  type        = string
+  description = "Component name used to lookup the ECS cluster remote state"
+  default     = "ecs"
+}
