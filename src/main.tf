@@ -11,7 +11,7 @@ locals {
 }
 
 module "roles_to_principals" {
-  source   = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/roles-to-principals?ref=v1.537.1"
+  source   = "github.com/cloudposse-terraform-components/aws-account-map//src/modules/roles-to-principals?ref=v1.537.2"
   context  = module.this.context
   role_map = {}
 }
