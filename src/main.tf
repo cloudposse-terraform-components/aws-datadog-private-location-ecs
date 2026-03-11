@@ -32,9 +32,9 @@ module "container_definition" {
 
   for_each = { for k, v in var.containers : k => v if local.enabled }
 
-  container_name = lookup(each.value, "name")
+  container_name = each.value["name"]
 
-  container_image = lookup(each.value, "image")
+  container_image = each.value["image"]
 
   container_memory             = lookup(each.value, "memory", null)
   container_memory_reservation = lookup(each.value, "memory_reservation", null)
